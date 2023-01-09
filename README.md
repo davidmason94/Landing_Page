@@ -1,2 +1,2 @@
 # Landing_Page
-This landing page was created using HMTL and CSS
+This landing page was created using HTML and CSS
