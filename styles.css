@@ -102,3 +102,20 @@ body {
   .bottom-item {
     width: 125px;
   }
+  .footer {
+    height: 50px;
+    color: #001B35;
+    background: lightgrey;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    position: fixed;
+    bottom: 0px;
+    font-style: italic;
+  }
+  .non-italic-footer-text {
+    margin-left: 4px;
+    font-style: normal;
+  }
