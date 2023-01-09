@@ -1,5 +1,5 @@
 body {
-    background: #001B35;
+    background: white;
     margin: 0;
     padding: 0;
   }
@@ -8,7 +8,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 96px;
+    padding-bottom: 96px;
   }
   .header-icon {
     height: 50px;
@@ -33,7 +33,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 96px;
+    padding-bottom: 96px;
   }
   .left-sub-container {
     height: 150px;
