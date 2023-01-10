@@ -138,8 +138,14 @@ button {
 .sign-up-container {
   background: #007FFF;
   height: 96px;
-  width: 480px;
+  width: 600px;
   border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.left-sign-up-sub-container {
+  color: white;
 }
 .footer {
   height: 50px;
