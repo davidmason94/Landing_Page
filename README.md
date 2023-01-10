@@ -1,2 +1,2 @@
 # Landing_Page
-This landing page was created using HTML and CSS
+This landing page (dog information webpage) was created using HTML and CSS
