@@ -127,6 +127,18 @@ button {
   display: flex;
   justify-content: flex-end;
 }
+.final-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 48px;
+}
+.sign-up-container {
+  background: #007FFF;
+  height: 96px;
+  width: 480px;
+  border-radius: 5px;
+}
 .footer {
   height: 50px;
   color: white;
