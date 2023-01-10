@@ -1,10 +1,5 @@
 body {
   background: white;
-  margin: 0;
-  padding: 0;
-  height: 2000px;
-  max-width: 800px;
-  max-height: 1256px;
 }
 header {
   color: white;
@@ -134,6 +129,7 @@ button {
   justify-content: center;
   align-items: center;
   padding: 48px;
+  margin-bottom: 48px;
 }
 .sign-up-container {
   background: #007FFF;
@@ -163,7 +159,6 @@ button {
   color: white;
   background: #001B35;
   width: 100%;
-  max-width: 800px;
   display: flex;
   justify-content: center;
   align-items: center;
