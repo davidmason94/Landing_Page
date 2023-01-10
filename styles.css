@@ -116,6 +116,10 @@ button {
   font-style: italic;
   color: #001B35;
 }
+.quote {
+  height: 100px;
+  width: 400px;
+}
 .footer {
   height: 50px;
   color: white;
