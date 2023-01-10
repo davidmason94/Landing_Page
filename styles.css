@@ -147,6 +147,17 @@ button {
 .left-sign-up-sub-container {
   color: white;
 }
+.sign-up-title {
+  font-size: 14px;
+  font-weight: 900;
+}
+.sign-up-description {
+  font-size: 12px;
+}
+.sign-up-button {
+  border: 1px solid white;
+  padding: 4px 16px;
+}
 .footer {
   height: 50px;
   color: white;
