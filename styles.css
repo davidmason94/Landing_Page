@@ -120,6 +120,13 @@ button {
   height: 100px;
   width: 400px;
 }
+.quote-ID {
+  font-style: normal;
+  font-size: 14px;
+  font-weight: 900;
+  display: flex;
+  justify-content: flex-end;
+}
 .footer {
   height: 50px;
   color: white;
