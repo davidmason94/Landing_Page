@@ -105,6 +105,10 @@ button {
 .bottom-item {
   width: 125px;
 }
+.quote-container {
+  height: 376px;
+  background: lightgrey;
+}
 .footer {
   height: 50px;
   color: white;
