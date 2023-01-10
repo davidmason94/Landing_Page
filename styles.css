@@ -170,4 +170,5 @@ button {
   position: fixed;
   bottom: 0px;
   text-align: center;
+  box-sizing: border-box;
 }
