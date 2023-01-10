@@ -137,12 +137,12 @@ button {
 }
 .sign-up-container {
   background: #007FFF;
-  height: 96px;
-  width: 600px;
   border-radius: 5px;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
+  padding: 32px 64px;
+  gap: 96px;
 }
 .left-sign-up-sub-container {
   color: white;
