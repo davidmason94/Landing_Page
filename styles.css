@@ -7,6 +7,7 @@ header {
   justify-content: center;
   align-items: center;
   padding-bottom: 96px;
+  padding-top: 8px;
   background: #001B35;
 }
 .header-icon {
