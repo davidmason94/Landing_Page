@@ -14,7 +14,7 @@ header {
 }
 .Header-Title {
   font-weight: 900;
-  font-size: 16px;
+  font-size: 32px;
   margin-right: 148px;
 }
 ul {
@@ -23,7 +23,7 @@ ul {
   gap: 32px;
 }
 .Header-UL {
-  font-size: 12px;
+  font-size: 24px;
 }
 .Header-Link li {
   display: inline;
