@@ -40,13 +40,13 @@ ul {
   width: 600px;
 }
 .left-title {
-  font-size: 32px;
+  font-size: 64px;
   font-weight: 900;
   color: white;
   margin-bottom: 8px;
 }
 .left-text {
-  font-size: 12px;
+  font-size: 24px;
   color: white;
   margin-bottom: 16px;
 }
